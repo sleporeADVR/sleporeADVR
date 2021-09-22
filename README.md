@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sleporeADVR
-- 👀 I’m interested in data governance, modeling, sql.
+- 👀 I’m interested in data governance, data modeling, sql.
 - 💞️ I’m looking to collaborate on best practices, advanced sql.
 - 📫 Reach me slepore@andovercos.com and shannonlepore@gmail.com
 
